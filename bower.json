@@ -1,0 +1,28 @@
+{
+  "name": "jQuery-rwdImageMaps",
+  "version": "1.5.0",
+  "homepage": "https://github.com/micheledisalvatore/jQuery-rwdImageMaps",
+  "authors": [
+    "-"
+  ],
+  "description": "Responsive Image Maps jQuery Plugin",
+  "main": "jquery.rwdImageMaps.js",
+  "keywords": [
+    "Responsive",
+    "Image",
+    "Maps",
+    "jQuery",
+    "Plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">1.6"
+  }
+}
